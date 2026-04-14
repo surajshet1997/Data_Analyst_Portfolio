@@ -106,7 +106,7 @@ notebooks/01_executive_summary.ipynb
 
 ## Author
 
-**Sathvik S Shet**
+**Suraj Shet H**
 Data Analyst — SQL | Python | Power BI
 
 
