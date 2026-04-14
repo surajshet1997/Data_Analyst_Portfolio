@@ -1,0 +1,9 @@
+CarrierID,CarrierName,CarrierType
+CR01,Maersk,Ocean
+CR02,MSC,Ocean
+CR03,CMA CGM,Ocean
+CR04,Hapag-Lloyd,Ocean
+CR05,COSCO,Ocean
+CR06,Evergreen,Ocean
+CR07,DHL Aviation,Air
+CR08,FedEx Logistics,Air

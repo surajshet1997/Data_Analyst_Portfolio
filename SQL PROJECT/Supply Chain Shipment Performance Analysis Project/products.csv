@@ -1,0 +1,51 @@
+ProductID,ProductName,Category
+P001,Laptop,Electronics
+P002,Smartphone,Electronics
+P003,LED Television,Electronics
+P004,Bluetooth Headphones,Electronics
+P005,Router,Electronics
+P006,Network Switch,Electronics
+P007,CCTV Camera,Electronics
+P008,Server Rack,Electronics
+P009,UPS Battery,Electronics
+P010,Hard Drive,Electronics
+P011,SSD Storage,Electronics
+P012,Graphics Card,Electronics
+P013,Motherboard,Electronics
+P014,Keyboard,Electronics
+P015,Mouse,Electronics
+P016,Smart Watch,Electronics
+P017,Tablet,Electronics
+P018,Refrigerator,Consumer Goods
+P019,Washing Machine,Consumer Goods
+P020,Microwave Oven,Consumer Goods
+P021,Air Conditioner,Consumer Goods
+P022,Car Brake Pads,Automotive
+P023,Car Engine Oil,Automotive
+P024,Automotive Battery,Automotive
+P025,Car Air Filter,Automotive
+P026,Industrial Bearings,Industrial
+P027,Hydraulic Pumps,Industrial
+P028,Steel Pipes,Industrial
+P029,Industrial Valves,Industrial
+P030,Electric Motor,Industrial
+P031,Gearbox,Industrial
+P032,Ball Bearings,Industrial
+P033,Copper Wire,Industrial
+P034,Aluminum Sheets,Industrial
+P035,Drill Machine,Industrial
+P036,Water Pumps,Industrial
+P037,Generator,Industrial
+P038,Air Compressor,Industrial
+P039,Pain Relief Tablets,Pharma
+P040,Antibiotic Capsules,Pharma
+P041,Insulin Injection,Pharma
+P042,Vitamin Supplements,Pharma
+P043,Office Chairs,Retail
+P044,Office Desks,Retail
+P045,Printer Paper,Retail
+P046,Ink Cartridges,Retail
+P047,Safety Gloves,Retail
+P048,Packaging Boxes,Retail
+P049,Plastic Containers,Retail
+P050,Solar Panel,Retail

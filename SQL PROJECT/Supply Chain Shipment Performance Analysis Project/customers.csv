@@ -1,0 +1,41 @@
+CustomerID,CustomerName,Region,Country
+C001,Walmart,North America,Canada
+C002,Costco,Asia Pacific,China
+C003,Target,Europe,Germany
+C004,Home Depot,Asia Pacific,Singapore
+C005,Best Buy,Europe,France
+C006,IKEA,Asia Pacific,India
+C007,Carrefour,North America,Mexico
+C008,Tesco,Asia Pacific,Australia
+C009,Metro AG,North America,USA
+C010,Ahold Delhaize,Asia Pacific,China
+C011,Seven & I Holdings,Europe,Netherlands
+C012,Alibaba Retail,Europe,Netherlands
+C013,JD Logistics,Asia Pacific,Japan
+C014,Reliance Retail,Europe,Germany
+C015,Future Group,Asia Pacific,Japan
+C016,Lotte Mart,North America,Canada
+C017,Aeon Co,Europe,Netherlands
+C018,Woolworths Group,North America,Canada
+C019,Sainsbury's,North America,Mexico
+C020,Kroger,Europe,Netherlands
+C021,Lidl,Europe,Germany
+C022,Aldi,North America,Canada
+C023,Amazon Retail,Europe,Netherlands
+C024,Flipkart Wholesale,North America,USA
+C025,Rakuten Commerce,Europe,UK
+C026,Canadian Tire,Europe,Netherlands
+C027,Marks & Spencer,North America,USA
+C028,Bunnings Group,North America,Canada
+C029,Decathlon,Asia Pacific,Singapore
+C030,MediaMarkt,Asia Pacific,Singapore
+C031,Otto Group,Europe,UK
+C032,Coles Group,Europe,Netherlands
+C033,Pick n Pay,Asia Pacific,Singapore
+C034,Shoprite,Europe,Netherlands
+C035,Spencer Retail,Europe,UK
+C036,DMart,Europe,Germany
+C037,Reliance Digital,North America,USA
+C038,Staples,North America,USA
+C039,Office Depot,Asia Pacific,India
+C040,Grainger,Europe,France

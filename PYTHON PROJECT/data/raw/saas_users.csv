@@ -1,0 +1,16 @@
+user_id,signup_date,last_active_date,plan_type,monthly_revenue,country,experiment_group,conversion,refund_flag
+U001,2023-01-05,2023-09-10,Basic,29,India,control,1,0
+U002,2023-01-12,2023-02-20,Pro,79,USA,variant,1,0
+U003,2023-02-01,2023-03-05,Basic,29,India,control,0,0
+U004,2023-02-15,2023-08-01,Enterprise,199,UK,variant,1,0
+U005,2023-03-02,2023-03-18,Basic,29,India,control,0,1
+U006,2023-03-20,2023-09-15,Pro,79,Canada,variant,1,0
+U007,2023-04-01,2023-04-25,Basic,29,India,control,0,0
+U008,2023-04-10,2023-09-30,Pro,79,USA,variant,1,0
+U009,2023-05-05,2023-06-01,Basic,29,India,control,0,0
+U010,2023-05-18,2023-09-12,Enterprise,199,Germany,variant,1,0
+U011,2023-06-02,2023-09-20,Pro,79,USA,control,1,0
+U012,2023-06-15,2023-07-01,Basic,29,India,variant,0,0
+U013,2023-07-01,2023-09-25,Pro,79,UK,variant,1,0
+U014,2023-07-10,2023-07-28,Basic,29,India,control,0,1
+U015,2023-08-01,2023-09-30,Enterprise,199,USA,variant,1,0
