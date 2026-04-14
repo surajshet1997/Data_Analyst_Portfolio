@@ -137,7 +137,7 @@ The emphasis is on **clear thinking, business understanding, and readable SQL** 
 
 ## 🔹 Author
 
-**Sathvik**
+**Suraj Shet H**
 Aspiring Data Analyst specializing in SQL analytics, business intelligence, and data-driven decision making.
 
 ---
