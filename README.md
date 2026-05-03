@@ -60,7 +60,7 @@ Analyze revenue performance, customer behavior, growth trends, and revenue leaka
 * Window Functions (`LAG`, `NTILE`)
 * Revenue Leakage Detection
 
-🔗 **View Project**: https://github.com/surajshet1997/revenue-growth-analytics-sql
+🔗 **View Project**: https://github.com/surajshet1997/Data_Analyst_Portfolio/tree/main/SQL%20PROJECT/revenue-growth-analytics-sql
 ---
 
 ## 2. Shipment Performance Analysis (SQL)
