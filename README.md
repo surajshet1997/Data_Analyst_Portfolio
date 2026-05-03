@@ -60,7 +60,7 @@ Analyze revenue performance, customer behavior, growth trends, and revenue leaka
 * Window Functions (`LAG`, `NTILE`)
 * Revenue Leakage Detection
 
-🔗 **View Project**: https://github.com/surajshet1997/Data_Analyst_Portfolio/tree/main/SQL%20PROJECT/revenue-growth-analytics-sql
+🔗 **View Project**: [Revenue Growth Analysis](https://github.com/surajshet1997/Data_Analyst_Portfolio/tree/main/SQL%20PROJECT/revenue-growth-analytics-sql)
 ---
 
 ## 2. Shipment Performance Analysis (SQL)
@@ -115,7 +115,7 @@ Build a real-time shipment tracking system by integrating weather API data with 
 * Real-Time Analytics
 * Logistics Operations Analysis
 
-🔗 **View Project**: https://github.com/surajshet1997/Real-Time-Logistics-Tracking-System
+🔗 **View Project**: [Live Logistics Tracking System using API](https://github.com/surajshet1997/Data_Analyst_Portfolio/tree/main/SQL%20PROJECT/Live%20Logistics%20Tracking%20System%20using%20API)
 
 ---
 
@@ -141,7 +141,7 @@ Develop a modular analytics engine to measure SaaS performance metrics.
 * A/B Testing
 * Business Intelligence
 
-🔗 **View Project**: https://github.com/surajshet1997/SaaS-Business-Analytics-Engine
+🔗 **View Project**: [SAAS BUSINESS ANALYTICS ENGINE](https://github.com/surajshet1997/Data_Analyst_Portfolio/tree/main/PYTHON%20PROJECT)
 
 ---
 
@@ -167,7 +167,7 @@ Design an interactive dashboard to analyze customer behavior, revenue trends, an
 * Dashboard Design
 * Customer & Revenue Analytics
 
-🔗 **View Project**: https://github.com/surajshet1997/Revenue-Customer-Analysis-PowerBI
+🔗 **View Project**: [Revenue and Customer Analysis](https://github.com/surajshet1997/Data_Analyst_Portfolio/tree/main/POWER%20BI%20PROJECT/Revenue%20and%20Customer%20Analysis)
 
 ---
 
