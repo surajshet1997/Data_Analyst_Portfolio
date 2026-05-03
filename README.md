@@ -84,7 +84,7 @@ Evaluate global shipment performance, carrier reliability, route delays, and rev
 * Carrier & Route Performance
 * SQL Aggregations & Window Functions
 
-🔗 **View Project**: https://github.com/surajshet1997/Supply-Chain-Shipment-Performance-Analysis
+🔗 **View Project**: [Supply Chain Shipment Performance Analysis Project](https://github.com/surajshet1997/Data_Analyst_Portfolio/tree/main/SQL%20PROJECT/Supply%20Chain%20Shipment%20Performance%20Analysis%20Project)
 
 ---
 
