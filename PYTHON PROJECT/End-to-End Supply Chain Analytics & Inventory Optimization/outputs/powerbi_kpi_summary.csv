@@ -1,0 +1,13 @@
+KPI,Value,Definition / caveat
+Historical demand units,1829979,2024 history
+Forecast units (30 days),171528.0,Aggregate forecast disaggregated using fixed 2024 demand shares
+SKU-warehouse pairs,250,Inventory planning scope
+Pairs below recommended ROP,6,Latest inventory snapshot
+Recommended order quantity units,11419,Order-up-to scenario; excludes open POs/MOQ
+Projected stockout pair-days,202,Scenario plan
+Planned order events,818,Scenario plan
+Planned purchase units,123499,Scenario plan
+Average supplier lead time days,7.98,Observed field
+Supplier lead-time range days,2–14,Observed field
+Suppliers,10,Observed supplier IDs
+Shipment performance available,No,No shipment/carrier/delivery-date fields
